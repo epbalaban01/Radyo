@@ -1,0 +1,15 @@
+D:\Visual Studio Projeler\Müzik\Müzik\bin\Debug\Müzik.exe.config
+D:\Visual Studio Projeler\Müzik\Müzik\bin\Debug\Müzik.exe
+D:\Visual Studio Projeler\Müzik\Müzik\bin\Debug\Müzik.pdb
+D:\Visual Studio Projeler\Müzik\Müzik\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio Projeler\Müzik\Müzik\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.csproj.ResolveComReference.cache
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.Form1.resources
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.Properties.Resources.resources
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.csproj.GenerateResource.Cache
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.exe
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.pdb
+D:\Visual Studio Projeler\Müzik\Müzik\obj\Debug\Müzik.Form2.resources
